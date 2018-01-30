@@ -5,7 +5,7 @@ const config = require('./config/database');
 
 // required modules
 // const url = require('url');
-// const nodeID = require('node-machine-id');
+const nodeID = require('node-machine-id');
 const uniqid = require('uniqid');
 // const conv = require('binstring');
 // const aes = require('crypto-js/aes');
